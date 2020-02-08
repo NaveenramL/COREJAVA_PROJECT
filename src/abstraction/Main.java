@@ -11,5 +11,6 @@ public static void main(String[] args)
 	
 	o.setInfo(67.3433f, 98);
 	o.displayDetails();
+	System.out.println("Hiiiiiiiiiiiii");
 }
 }
